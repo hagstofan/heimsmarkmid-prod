@@ -10,7 +10,7 @@
           "title": "Hlutfall íbúa undir alþjóðlegum fátæktarmörkum eftir kyni, aldri, atvinnustöðu og landfræðilegri staðsetningu (þéttbýli/dreifbýli).",
           "description": "Hlutfall íbúa sem undir alþjóðlegum fátæktarmörkum er skilgreint sem prósentutala íbúa sem lifa á innan við 2.15 Bandaríkjadölum á dag, miðað við verðlag ársins 2017.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-1-1",
+          "href": "/1-1-1",
           "status": "complete"
         },
         {
@@ -18,7 +18,7 @@
           "title": "Hlutfall íbúa undir innlendum fátæktarmörkum, eftir kyni og aldri.",
           "description": "Hlutfall íbúa (í hundraðshlutum, %) sem býr undir lágtekjumörkum. Mælingar á landsbundinni fátækt eru mikilvægar fyrir innlenda stefnumótun. Landsbundin fátæktarmörk eru notuð til að fá nákvæmari mat á fátækt sem samrýmist efnahagslegum og félagslegum aðstæðum í hverju landi fyrir sig, en eru ekki ætluð fyrir alþjóðlegan samanburð á fátæktarmörkum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-2-1",
+          "href": "/1-2-1",
           "status": "complete"
         },
         {
@@ -26,7 +26,7 @@
           "title": "Hlutfall karla, kvenna og barna á öllum aldri, sem búa við fátækt í öllum sínum birtingarmyndum samkvæmt skilgreiningum í hverju landi.",
           "description": "Hlutfall (%) íbúa sem búa á heimilum sem metin eru í hættu á viðvarandi fátækt í innlendu samhengi. Mælingar á landsbundinni fátækt eru mikilvægar fyrir innlenda stefnumótun. Landsbundin fátæktarmörk eru notuð til að fá nákvæmari mat á fátækt sem samrýmist efnahagslegum og félagslegum aðstæðum í hverju landi fyrir sig, en eru ekki ætluð fyrir alþjóðlegan samanburð á fátæktarmörkum.'",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-2-2",
+          "href": "/1-2-2",
           "status": "complete"
         },
         {
@@ -34,7 +34,7 @@
           "title": "Hlutfall íbúa sem njóta félagslegrar lágmarksverndar/félagslegra verndarkerfa, eftir kyni, þar sem greint er á milli barna, atvinnulausra einstaklinga, eldri borgara, fatlaðra, barnshafandi kvenna, nýbura, fórnarlamba vinnuslysa, fátækra og annarra í viðkvæmri stöðu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-3-1",
+          "href": "/1-3-1",
           "status": "complete"
         },
         {
@@ -42,7 +42,7 @@
           "title": "Hlutfall íbúa sem búa í húsnæði með aðgangi að grunnþjónustu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-4-1",
+          "href": "/1-4-1",
           "status": "complete"
         },
         {
@@ -50,7 +50,7 @@
           "title": "Hlutfall allra fullorðinna íbúa með örugg leiguréttindi á landi, með lagalega viðurkennd gögn og sem meta réttindi sín til lands sem örugg, eftir kyni og tegund ábúðar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-4-2",
+          "href": "/1-4-2",
           "status": "complete"
         },
         {
@@ -58,7 +58,7 @@
           "title": "Fjöldi dauðsfalla, týndra einstaklinga og fólks sem orðið hefur fyrir beinum áhrifum af völdum hamfara á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-5-1",
+          "href": "/1-5-1",
           "status": "complete"
         },
         {
@@ -66,7 +66,7 @@
           "title": "Beint efnahagslegt tap í tengslum við hamfarir miðað við verga landsframleiðslu.",
           "description": "Beint efnahagslegt tap í tengslum við hamfarir sem hundraðshluti af vergri landsframleiðslu vegna hamfara sem eru vátryggð hjá Náttúruhamfaratryggingu Íslands.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-5-2",
+          "href": "/1-5-2",
           "status": "complete"
         },
         {
@@ -74,7 +74,7 @@
           "title": "Fjöldi landa sem hafa samþykkt og komið til framkvæmda innlendum áætlunum um að draga úr áhrifum hamfara í samræmi við Sendai-rammaáætlunina um forvarnir gegn náttúruvá 2015-2030.",
           "description": "",
           "keywords": "Lög, Reglugerðir",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-5-3",
+          "href": "/1-5-3",
           "status": "complete"
         },
         {
@@ -82,7 +82,7 @@
           "title": "Hlutfall sveitarstjórna sem hafa samþykkt og komið til framkvæmda staðbundnum áætlunum um að draga úr áhrifum hamfara í samræmi við innlendar áætlanir um það.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-5-4",
+          "href": "/1-5-4",
           "status": "notstarted"
         },
         {
@@ -90,7 +90,7 @@
           "title": "Heildar þróunaraðstoð frá öllum gjöfum sem veitt er til að draga úr fátækt, sem hlutfall af vergrum þjóðartekjum viðtökulands.",
           "description": "Heildar þróunaraðstoð frá öllum gjöfum sem veitt er til að draga úr fátækt, sem hlutfall af vergrum þjóðartekjum viðtökulands.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-a-1",
+          "href": "/1-a-1",
           "status": "complete"
         },
         {
@@ -98,7 +98,7 @@
           "title": "Hlutfall heildarútgjalda hins opinbera til nauðsynlegrar þjónustu (menntunar, heilbrigðismála og félagsverndar).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-a-2",
+          "href": "/1-a-2",
           "status": "complete"
         },
         {
@@ -106,7 +106,7 @@
           "title": "Félagsaðstoð hins opinbera sem fátækir njóta umfram aðra.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/1-b-1",
+          "href": "/1-b-1",
           "status": "notstarted"
         }]
     }
@@ -122,7 +122,7 @@
           "title": "Algengi vannæringar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-1-1",
+          "href": "/2-1-1",
           "status": "complete"
         },
         {
@@ -130,7 +130,7 @@
           "title": "Algengi nokkurs eða alvarlegs fæðuóöryggis hjá þjóðinni, byggt á mælikvarða um fæðuóöryggi (FIES - Food Insecurity Experience Scale).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-1-2",
+          "href": "/2-1-2",
           "status": "complete"
         },
         {
@@ -138,7 +138,7 @@
           "title": "Algengi kyrkings í vexti (hæð m.v. aldur <-2 staðalfrávik frá meðaltali Alþjóðaheilbrigðismálastofnunarinnar (WHO)) meðal barna undir 5 ára aldri.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-2-1",
+          "href": "/2-2-1",
           "status": "notstarted"
         },
         {
@@ -146,7 +146,7 @@
           "title": "Algengi lélegs næringarástands (þyngd m.v. hæð >+2 eða <-2 staðalfrávik frá meðaltali barnavaxtarstuðuls Alþjóðaheilbrigðismálastofnunarinnar) meðal barna undir 5 ára aldri, eftir tegund (vanþrif og ofþyngd).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-2-2",
+          "href": "/2-2-2",
           "status": "complete"
         },
         {
@@ -154,7 +154,7 @@
           "title": "Algengi blóðleysis hjá konum á aldrinum 15-49 ára, eftir því hvort um meðgöngu sé að ræða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-2-3",
+          "href": "/2-2-3",
           "status": "notstarted"
         },
         {
@@ -162,7 +162,7 @@
           "title": "Framleiðslumagn á starfseiningu, flokkað eftir umfangi búskapar/hjarðmennsku/skógræktar.",
           "description": "Framleiðni vinnuafls er mælikvarði á efnahagslegan árangur mismunandi atvinnugreina og lýsir hversu skilvirknislega greinarnar nýta þær auðlindir sem aðgengilegar eru til framleiðslu afurða úr hráefnum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-3-1",
+          "href": "/2-3-1",
           "status": "complete"
         },
         {
@@ -170,7 +170,7 @@
           "title": "Meðaltekjur lítilla matvælaframleiðenda, eftir kyni og hvort um frumbyggja er að ræða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-3-2",
+          "href": "/2-3-2",
           "status": "notstarted"
         },
         {
@@ -178,7 +178,7 @@
           "title": "Hlutfall landbúnaðarsvæðis til framleiðslu og sjálfbærs landbúnaðar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-4-1",
+          "href": "/2-4-1",
           "status": "notstarted"
         },
         {
@@ -186,7 +186,7 @@
           "title": "Fjöldi erfðaauðlinda plantna og dýra á sviði matvæla og landbúnaðar sem komið hefur verið tryggilega fyrir í varðveisluaðstöðu til meðallangs og langs tíma.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-5-1",
+          "href": "/2-5-1",
           "status": "complete"
         },
         {
@@ -194,7 +194,7 @@
           "title": "Hlutfall staðbundinna búfjártegunda sem metnar eru í útrýmingarhættu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-5-2",
+          "href": "/2-5-2",
           "status": "complete"
         },
         {
@@ -202,7 +202,7 @@
           "title": "Leitnistuðull fyrir landbúnað í útgjöldum hins opinbera.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-a-1",
+          "href": "/2-a-1",
           "status": "complete"
         },
         {
@@ -210,7 +210,7 @@
           "title": "Heildartilfærslur hins opinbera (opinber þróunaraðstoð að viðbættum öðrum opinberum tilfærslum) til landbúnaðargeirans.",
           "description": "Heildartilfærslur hins opinbera (opinber þróunaraðstoð að viðbættum öðrum opinberum tilfærslum) til landbúnaðargeirans.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-a-2",
+          "href": "/2-a-2",
           "status": "complete"
         },
         {
@@ -218,7 +218,7 @@
           "title": "Útflutningsstyrkir vegna landbúnaðarafurða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-b-1",
+          "href": "/2-b-1",
           "status": "complete"
         },
         {
@@ -226,7 +226,7 @@
           "title": "Mælikvarði fyrir frávik í matvælaverði",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/2-c-1",
+          "href": "/2-c-1",
           "status": "complete"
         }]
     }
@@ -242,7 +242,7 @@
           "title": "Tíðni mæðradauða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-1-1",
+          "href": "/3-1-1",
           "status": "complete"
         },
         {
@@ -250,7 +250,7 @@
           "title": "Hlutfall fæðinga þar sem faglærðir heilbrigðisstarfsmenn eru til staðar.",
           "description": "Hlutfall fæðinga sem eiga sér stað á heilbrigðisstofnunum",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-1-2",
+          "href": "/3-1-2",
           "status": "complete"
         },
         {
@@ -258,7 +258,7 @@
           "title": "Dánartíðni barna undir 5 ára aldri.",
           "description": "Fjöldi látinna barna undir 5 ára aldri á hver 1.000 lifandi fædd börn.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-2-1",
+          "href": "/3-2-1",
           "status": "complete"
         },
         {
@@ -266,7 +266,7 @@
           "title": "Dánartíðni nýbura.",
           "description": "Fjöldi látinna barna á fyrstu 28 dögum eftir fæðingu á hver 1.000 lifandi fædd börn",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-2-2",
+          "href": "/3-2-2",
           "status": "complete"
         },
         {
@@ -274,7 +274,7 @@
           "title": "Fjöldi HIV-sýkinga á hverja 1.000 íbúa, eftir kyni, aldri og helstu samfélagshópum.",
           "description": "",
           "keywords": "HIV, sýkingar",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-3-1",
+          "href": "/3-3-1",
           "status": "complete"
         },
         {
@@ -282,7 +282,7 @@
           "title": "Nýgengi berkla á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-3-2",
+          "href": "/3-3-2",
           "status": "complete"
         },
         {
@@ -290,7 +290,7 @@
           "title": "3.3.3 Nýgengi malaríu á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-3-3",
+          "href": "/3-3-3",
           "status": "complete"
         },
         {
@@ -298,7 +298,7 @@
           "title": "Nýgengi lifrarbólgu B á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-3-4",
+          "href": "/3-3-4",
           "status": "complete"
         },
         {
@@ -306,7 +306,7 @@
           "title": "Fjöldi einstaklinga sem þarfnast inngrips vegna vanmeðhöndlaðra hitabeltissjúkdóma.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-3-5",
+          "href": "/3-3-5",
           "status": "complete"
         },
         {
@@ -314,7 +314,7 @@
           "title": "Dánartíðni af völdum hjarta- og æðasjúkdóma, krabbameins, sykursýki eða langvinnra öndunarfærasjúkdóma.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-4-1",
+          "href": "/3-4-1",
           "status": "complete"
         },
         {
@@ -322,7 +322,7 @@
           "title": "Dánartíðni af völdum sjálfsvíga.",
           "description": "Dánartíðni af völdum sjálfsvíga á Íslandi.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-4-2",
+          "href": "/3-4-2",
           "status": "complete"
         },
         {
@@ -330,7 +330,7 @@
           "title": "Umfang meðferðarinngrips (lyfjafræðilegrar, sálfélagslegrar og endurhæfingar- og eftirmeðferðarþjónustu) vegna vanda af völdum lyfjamisnotkunar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-5-1",
+          "href": "/3-5-1",
           "status": "notstarted"
         },
         {
@@ -338,7 +338,7 @@
           "title": "Skaðleg notkun áfengis, skilgreint út frá innlendu samhengi sem áfengisnotkun á mann (15 ára og eldri) innan almanaksárs, í lítrum af hreinu áfengi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-5-2",
+          "href": "/3-5-2",
           "status": "complete"
         },
         {
@@ -346,7 +346,7 @@
           "title": "Dánartíðni af völdum umferðarslysa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-6-1",
+          "href": "/3-6-1",
           "status": "complete"
         },
         {
@@ -354,7 +354,7 @@
           "title": "Hlutfall kvenna á barneignaaldri (15-49 ára) sem fá fullnægjandi og nútímalega þjónustu m.t.t. fjölskylduáætlanagerðar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-7-1",
+          "href": "/3-7-1",
           "status": "complete"
         },
         {
@@ -362,7 +362,7 @@
           "title": "Fæðingartíðni meðal unglingsstúlkna (10-14 ára annars vegar og 15-19 ára hins vegar) á hverjar 1.000 stúlkur í viðkomandi aldurshópi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-7-2",
+          "href": "/3-7-2",
           "status": "complete"
         },
         {
@@ -370,7 +370,7 @@
           "title": "Umfang nauðsynlegrar heilbrigðisþjónustu (skilgreint sem meðalumfang nauðsynlegrar þjónustu á grundvelli gátunaríhlutana sem taka til  frjósemisheilbrigðis og heilbrigðis mæðra, nýbura og barna, smitsjúkdóma, smitlausra sjúkdóma, og þjónustugetu og aðgengis almennings og þeirra samfélagshópa sem standa höllustum fæti).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-8-1",
+          "href": "/3-8-1",
           "status": "notstarted"
         },
         {
@@ -378,7 +378,7 @@
           "title": "Hlutfall íbúa með mikil útgjöld vegna heilbrigðismála sem hlutfall af heildarútgjöldum- eða tekjum heimilis.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-8-2",
+          "href": "/3-8-2",
           "status": "notstarted"
         },
         {
@@ -386,7 +386,7 @@
           "title": "Dánartíðni sem rekja má til loftmengunar á heimilum og í andrúmslofti.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-9-1",
+          "href": "/3-9-1",
           "status": "complete"
         },
         {
@@ -394,7 +394,7 @@
           "title": "Dánartíðni sem rekja má til mengaðs vatns, lélegrar salernisaðstöðu og skorts á hreinlæti (ófullnægjandi aðgangur að hreinu vatni, salernisaðstöðu og hreinlæti, WASH-þjónustu).",
           "description": "Þessi mælikvarði sýnir upplýsingar um fjölda dauðsfalla sem rekja má til mengaðs vatns, lélegrar salernisaðstöðu og skorts á hreinlæti (með áherslu á WASH-þjónustu) sem hefði mátt koma í veg fyrir með því að bæta gæði þessara þjónusta og aðferða. Mælikvarðinn byggir á skráðum dánarmeinum og veitir þannig upplýsingar um raunverulegar sýkingar sem hljótast af þeim hættum sem mældar eru í undirmarkmiðum 6.1, 6.2 and 6.3.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-9-2",
+          "href": "/3-9-2",
           "status": "complete"
         },
         {
@@ -402,7 +402,7 @@
           "title": "Dánartíðni sem rekja má til eitrana af vangá.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-9-3",
+          "href": "/3-9-3",
           "status": "complete"
         },
         {
@@ -410,7 +410,7 @@
           "title": "Útbreiðsla tóbaksnotkunar eftir aldurshópum hjá 15 ára og eldri.",
           "description": "Hlutfall íbúa, 18 ára og eldri, sem reykja sígarettur á Ísland af öllum íbúum, 18 ára og eldri",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-a-1",
+          "href": "/3-a-1",
           "status": "complete"
         },
         {
@@ -418,7 +418,7 @@
           "title": "Hlutfall markþýðis sem fengið hefur allar bólusetningar samkvæmt viðkomandi landsáætlun.",
           "description": "Hlutfall barna sem hafa verið bólusett, eftir fæðingarári og tegund bólusetningar.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-b-1",
+          "href": "/3-b-1",
           "status": "complete"
         },
         {
@@ -426,7 +426,7 @@
           "title": "Samanlögð nettóþróunaraðstoð opinberra aðila til rannsókna í læknisfræði og helstu heilbrigðisgreina.",
           "description": "",
           "keywords": "HIV, sýkingar",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-b-2",
+          "href": "/3-b-2",
           "status": "complete"
         },
         {
@@ -434,7 +434,7 @@
           "title": "Hlutfall heilbrigðisstarfsstöðva sem búa yfir grunnbirgðum af viðeigandi nauðsynlegum lyfjum á viðráðanlegu verði á sjálfbærum grunni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-b-3",
+          "href": "/3-b-3",
           "status": "complete"
         },
         {
@@ -442,7 +442,7 @@
           "title": "Þéttleiki og dreifing heilbrigðisstarfsmanna.",
           "description": "Þéttleiki og dreifing heilbrigðisstarfsmanna, þ.m.t. læknar, hjúkrunarfræðingar, tannlæknar og lyfjafræðingar",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-c-1",
+          "href": "/3-c-1",
           "status": "complete"
         },
         {
@@ -450,7 +450,7 @@
           "title": "Geta og viðbúnaður gegn heilbrigðisvá samkvæmt alþjóðlegum heilbrigðisreglum (IHR).",
           "description": "Geta og viðbúnaður gegn heilbrigðisvá samkvæmt alþjóðlegum heilbrigðisreglum (IHR) eftir tegund.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-d-1",
+          "href": "/3-d-1",
           "status": "complete"
         },
         {
@@ -458,7 +458,7 @@
           "title": "Hlutfall blóðeitrana vegna valinna fjölónæmra baketería.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/3-d-2",
+          "href": "/3-d-2",
           "status": "notstarted"
         }]
     }
@@ -474,7 +474,7 @@
           "title": "Hlutfall barna og ungmenna a) í 2. og 3. bekk, b) við lok grunnskóla, c) við lok framhaldsskóla sem náð hefur a.m.k. lágmarksfærni í i. lestri og ii. stærðfræði, eftir kyni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-1-1",
+          "href": "/4-1-1",
           "status": "complete"
         },
         {
@@ -482,7 +482,7 @@
           "title": "Brautskráningarhlutfall nemenda í grunn- og framhaldsskóla",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-1-2",
+          "href": "/4-1-2",
           "status": "complete"
         },
         {
@@ -490,7 +490,7 @@
           "title": "Hlutfall barna undir 5 ára aldri sem eru með eðlilegan þroska hvað varðar heilbrigði, nám og sálfélagslega vellíðan, eftir kyni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-2-1",
+          "href": "/4-2-1",
           "status": "notstarted"
         },
         {
@@ -498,7 +498,7 @@
           "title": "Þátttökuhlutfall í skipulögðu námi (ári áður en opinberum aldri til grunnskólanáms er náð), eftir kyni.",
           "description": "Hlutfall 5 ára barna sem taka þátt í skipulögðu námi (á leikskóla eða grunnskóla)",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-2-2",
+          "href": "/4-2-2",
           "status": "complete"
         },
         {
@@ -506,7 +506,7 @@
           "title": "Þátttökuhlutfall ungmenna og fullorðinna í formlegu og óformlegu námi og þjálfun á síðastliðnum 12 mánuðum, eftir kyni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-3-1",
+          "href": "/4-3-1",
           "status": "complete"
         },
         {
@@ -514,7 +514,7 @@
           "title": "Hlutfall ungmenna og fullorðinna sem búa yfir upplýsinga- og fjarskiptatækniþekkingu, eftir tegund þekkingar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-4-1",
+          "href": "/4-4-1",
           "status": "complete"
         },
         {
@@ -522,7 +522,7 @@
           "title": "Jöfnuðarvísar (konur/karlar, dreifbýli/þéttbýli, fátækasti/ríkasti fimmtungur og aðrir hópar, s.s. öryrkjar, frumbyggjar og þeir sem hafa orðið fyrir barðinu á átökum, eftir því sem gögn verða tiltæk), fyrir alla menntavísa í þessari skrá sem unnt er að aðgreina.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-5-1",
+          "href": "/4-5-1",
           "status": "complete"
         },
         {
@@ -530,7 +530,7 @@
           "title": "Hlutfall íbúa í tilteknum aldurshópi sem náð hafa a.m.k. ákveðinni verkfærni í a) læsi og b) tölulæsi, eftir kyni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-6-1",
+          "href": "/4-6-1",
           "status": "notstarted"
         },
         {
@@ -538,7 +538,7 @@
           "title": "Að hvaða marki i. menntun í heimsborgararétti og ii. menntun í sjálfbærri þróun, þ.m.t. í kynjajafnrétti og mannréttindum, hefur verið felld inn á öllum stigum í a) innlendar menntunaráætlanir, b) námskrár, c) kennaramenntun og d) mat á nemendum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-7-1",
+          "href": "/4-7-1",
           "status": "notstarted"
         },
         {
@@ -546,7 +546,7 @@
           "title": "Hlutfall skóla með aðgengi að a) rafmagni, b) netinu til kennslu, c) tölvum til kennslu, d) aðlöguðum innviðum og námsgögnum fyrir fatlaða nemendur, e) drykkjarhæfu vatni, f) aðskilinni salernisaðstöðu fyrir kynin og g) handþvottaaðstöðu (sbr. skilgreiningar WASH-vísisins).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-a-1",
+          "href": "/4-a-1",
           "status": "complete"
         },
         {
@@ -554,7 +554,7 @@
           "title": "Umfang opinberrar þróunaraðstoðar til skólastyrkja eftir sviðum og námsgreinum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-b-1",
+          "href": "/4-b-1",
           "status": "complete"
         },
         {
@@ -562,7 +562,7 @@
           "title": "Hlutfall kennara í: a) forskólum, b) grunnskólum, c) neðri bekkjum framhaldsskóla, d) efri bekkjum framhaldsskóla sem notið hafa a.m.k. skipulegrar lágmarksþjálfunar fyrir kennara (þ.e. í kennslufræðum) áður en starf hefst eða í starfi, sem krafist er til kennslu á viðkomandi skólastigi í tilteknu landi.",
           "description": "Hlutfall menntaðra kennara í leikskólum og grunnskólum á Íslandi",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/4-c-1",
+          "href": "/4-c-1",
           "status": "complete"
         }]
     }
@@ -578,7 +578,7 @@
           "title": "Hvort til staðar er lagarammi sem miðar að því að efla, framfylgja og hafa eftirlit með því hvort kynin njóti jafnréttis og að þeim sé ekki mismunað.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-1-1",
+          "href": "/5-1-1",
           "status": "complete"
         },
         {
@@ -586,7 +586,7 @@
           "title": "Hlutfall kvenna og stúlkna eldri en 15 ára sem hafa verið í sambandi og orðið fyrir  líkamlegu, kynferðislegu eða andlegu ofbeldi af hálfu núverandi eða fyrrverandi sambúðarmaka á síðastliðnum 12 mánuðum, eftir tegund ofbeldis og aldri.",
           "description": "Hlutfall heimilisofbeldis (andlegt/líkamlegt ofbeldi, hótanir, kynferðisofbeldi og umsátur) á síðastliðnum 12 mánuðum meðal kvenna 15 ára og eldri.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-2-1",
+          "href": "/5-2-1",
           "status": "complete"
         },
         {
@@ -594,7 +594,7 @@
           "title": "Hlutfall kvenna og stúlkna eldri en 15 ára, sem hafa orðið fyrir kynferðislegu ofbeldi af hálfu annarra en sambúðarmaka á síðastliðnum 12 mánuðum, eftir aldri og verknaðarstað.",
           "description": "Hlutfall kvenna og stúlkna eldri en 15 ára sem hafa orðið fyrir kynferðislegu ofbeldi á síðastliðnum 12 mánuðum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-2-2",
+          "href": "/5-2-2",
           "status": "complete"
         },
         {
@@ -602,7 +602,7 @@
           "title": "Hlutfall kvenna á aldrinum 20-24 ára sem giftust eða höfðu verið í sambandi fyrir 15 ára aldur og fyrir 18 ára aldur.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-3-1",
+          "href": "/5-3-1",
           "status": "complete"
         },
         {
@@ -610,7 +610,7 @@
           "title": "Hlutfall stúlkna og kvenna á aldrinum 15-49 sem hafa undirgengist limlestingu/skurð á kynfærum sínum, eftir aldri.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-3-2",
+          "href": "/5-3-2",
           "status": "complete"
         },
         {
@@ -618,7 +618,7 @@
           "title": "Hlutfall tíma sem varið er til ólaunaðra heimilis- og umönnunarstarfa, eftir kyni, aldri og staðsetningu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-4-1",
+          "href": "/5-4-1",
           "status": "complete"
         },
         {
@@ -626,7 +626,7 @@
           "title": "Hlutfall kvenna a) á þjóðþingum og b) í sveitarstjórnum.",
           "description": "Hlutfall kvenna á Alþingi.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-5-1",
+          "href": "/5-5-1",
           "status": "complete"
         },
         {
@@ -634,7 +634,7 @@
           "title": "Hlutfall kvenna í stjórnunarstöðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-5-2",
+          "href": "/5-5-2",
           "status": "complete"
         },
         {
@@ -642,7 +642,7 @@
           "title": "Hlutfall kvenna á aldrinum 15-49 ára sem taka eigin og upplýstar ákvarðanir varðandi kynlíf, notkun getnaðarvarna og frjósemisheilbrigði.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-6-1",
+          "href": "/5-6-1",
           "status": "notstarted"
         },
         {
@@ -650,7 +650,7 @@
           "title": "Fjöldi landa sem tryggja fullan og jafnan aðgang kvenna og karla eldri en 15 ára, með lagasetningu og reglum, að kyn- og frjósemisheilbrigðisþjónustu, upplýsingum og menntun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-6-2",
+          "href": "/5-6-2",
           "status": "complete"
         },
         {
@@ -658,7 +658,7 @@
           "title": "a) Hlutfall heildarmannfjölda í landbúnaði sem hefur eignarhald á eða öruggan rétt til landbúnaðarlands, eftir kyni, og b) hlutfall kvenna meðal eigenda eða rétthafa til landbúnaðarlands, eftir tegund ábúðar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-a-1",
+          "href": "/5-a-1",
           "status": "notstarted"
         },
         {
@@ -666,7 +666,7 @@
           "title": "Hlutfall landa þar sem lagaramminn (þ.m.t. venjuréttur) tryggir jafnan rétt kvenna til eignarhalds á landi og/eða yfirráða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-a-2",
+          "href": "/5-a-2",
           "status": "complete"
         },
         {
@@ -674,7 +674,7 @@
           "title": "Hlutfall einstaklinga sem eiga farsíma, eftir kyni.",
           "description": "Þessi mælikvarði er fengin frá árlegri upplýsingatæknikönnun Evrópusambandsins. Mælikvarðinn sýnir hlutfall íbúa á aldrinum 16 til 74, eftir kyni, sem nota farsíma til að tengjast internetinu. Þessi mælikvarði er notaður sem nálgun á mælikvarða Sameinuðu Þjóðanna, þar sem sá mælikvarði biður um hlutfall karla og kvenna sem eiga farsíma.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-b-1",
+          "href": "/5-b-1",
           "status": "complete"
         },
         {
@@ -682,7 +682,7 @@
           "title": "Hlutfall landa með kerfi til að hafa eftirlit með og annast opinberar fjárveitingar til að stuðla að jafnrétti kynjanna og valdeflingu kvenna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/5-c-1",
+          "href": "/5-c-1",
           "status": "complete"
         }]
     }
@@ -698,7 +698,7 @@
           "title": "Hlutfall íbúa sem búa við örugga vatnsveitu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-1-1",
+          "href": "/6-1-1",
           "status": "complete"
         },
         {
@@ -706,7 +706,7 @@
           "title": "Hlutfall íbúa sem nýtur öruggrar salernisaðstöðu, þ.m.t. handþvottaaðstöðu með sápu og vatni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-2-1",
+          "href": "/6-2-1",
           "status": "complete"
         },
         {
@@ -714,7 +714,7 @@
           "title": "Hlutfall skólps sem fær örugga meðhöndlun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-3-1",
+          "href": "/6-3-1",
           "status": "complete"
         },
         {
@@ -722,7 +722,7 @@
           "title": "Hlutfall vatnshlota með góðum vatnsgæðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-3-2",
+          "href": "/6-3-2",
           "status": "notstarted"
         },
         {
@@ -730,7 +730,7 @@
           "title": "Breyting á nýtni í vatnsnotkun með tímanum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-4-1",
+          "href": "/6-4-1",
           "status": "notstarted"
         },
         {
@@ -738,7 +738,7 @@
           "title": "Álag á vatnsbúskap: ferskvatnsnotkun sem hlutfall af tiltækum ferskvatnsauðlindum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-4-2",
+          "href": "/6-4-2",
           "status": "complete"
         },
         {
@@ -746,7 +746,7 @@
           "title": "Að hvaða marki samþættri stjórnun vatnsauðlinda hefur verið komið til framkvæmda (0-100).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-5-1",
+          "href": "/6-5-1",
           "status": "notstarted"
         },
         {
@@ -754,7 +754,7 @@
           "title": "Hlutfall vatnasvæða þvert á landamæri þar sem samkomulag er til staðar um vatnsnotkun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-5-2",
+          "href": "/6-5-2",
           "status": "complete"
         },
         {
@@ -762,7 +762,7 @@
           "title": "Breyting á umfangi vatnstengdra vistkerfa með tímanum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-6-1",
+          "href": "/6-6-1",
           "status": "complete"
         },
         {
@@ -770,7 +770,7 @@
           "title": "Umfang opinberrar þróunaraðstoðar í tengslum við vatns- og hreinlætismál sem hluta af samræmdri útgjaldaáætlun stjórnvalda.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-a-1",
+          "href": "/6-a-1",
           "status": "complete"
         },
         {
@@ -778,7 +778,7 @@
           "title": "Hlutfall sveitarstjórnareininga með samþykktar og virkar stefnur og verklagsreglur varðandi þátttöku staðbundinna samfélaga í stjórnun vatns- og  hreinlætismála.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/6-b-1",
+          "href": "/6-b-1",
           "status": "notstarted"
         }]
     }
@@ -794,7 +794,7 @@
           "title": "Hlutfall íbúa með aðgang að rafmagni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-1-1",
+          "href": "/7-1-1",
           "status": "complete"
         },
         {
@@ -802,7 +802,7 @@
           "title": "Hlutfall íbúa sem reiða sig fyrst og fremst á hreint eldsneyti og tækni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-1-2",
+          "href": "/7-1-2",
           "status": "complete"
         },
         {
@@ -810,7 +810,7 @@
           "title": "Hlutfall endurnýjanlegrar orku í heildarnotkun orku.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-2-1",
+          "href": "/7-2-1",
           "status": "complete"
         },
         {
@@ -818,7 +818,7 @@
           "title": "Orkukræfni mæld með tilliti til frumorku og landsframleiðslu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-3-1",
+          "href": "/7-3-1",
           "status": "complete"
         },
         {
@@ -826,7 +826,7 @@
           "title": "Alþjóðlegt fjárstreymi til þróunarlanda sem veitt er til rannsókna og þróunar á hreinni orku og framleiðslu á endurnýjanlegri orku, þ.m.t. í blönduðum kerfum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-a-1",
+          "href": "/7-a-1",
           "status": "complete"
         },
         {
@@ -834,7 +834,7 @@
           "title": "Uppsett orkuvinnslugeta endurnýjanlegrar orku í þróunarlöndum (í vöttum á íbúa)",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/7-b-1",
+          "href": "/7-b-1",
           "status": "complete"
         }]
     }
@@ -850,7 +850,7 @@
           "title": "Árlegur vaxtarhraði raunverulegrar landsframleiðslu á mann.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-1-1",
+          "href": "/8-1-1",
           "status": "complete"
         },
         {
@@ -858,7 +858,7 @@
           "title": "Árlegur raunvöxtur vergrar landsframleiðslu á hvern vinnandi einstakling.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-2-1",
+          "href": "/8-2-1",
           "status": "complete"
         },
         {
@@ -866,7 +866,7 @@
           "title": "Hlutfall óformlegra starfa, eftir kyni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-3-1",
+          "href": "/8-3-1",
           "status": "notstarted"
         },
         {
@@ -874,7 +874,7 @@
           "title": "Efnisspor, efnisspor á mann og efnisspor miðað við verga landsframleiðslu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-4-1",
+          "href": "/8-4-1",
           "status": "notstarted"
         },
         {
@@ -882,7 +882,7 @@
           "title": "Innlend efnisnotkun, innlend efnisnotkun á mann og innlend efnisnotkun miðað við verga landsframleiðslu.",
           "description": "Sjá aðferðarfræði í [lýsigögnum efnisflæðireikninga](http://hagstofan.s3.amazonaws.com/media/public/2020/7e196e70-d038-43f8-9d9d-18f18ede6574.pdf)",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-4-2",
+          "href": "/8-4-2",
           "status": "complete"
         },
         {
@@ -890,7 +890,7 @@
           "title": "Meðaltímakaup starfandi karla og kvenna, eftir starfi, aldri og fötluðum einstaklingum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-5-1",
+          "href": "/8-5-1",
           "status": "complete"
         },
         {
@@ -898,7 +898,7 @@
           "title": "Atvinnuleysishlutfall eftir kyni, aldri og fötluðum einstaklingum.",
           "description": "Atvinnuleysishlutfall er gagnlegur mælikvarði á vannýtingu vinnuafls. Það endurspeglar vangetu hagkerfis til að útvega þeim vinnu sem vilja vinna, geta það og eru í virkri atvinnuleit en fá ekki atvinnu. Það er því mæilkvarði á skilvirkni hagkerfis til að virkja vinnuafl landins og frammistöðu vinnumarkaðarinns. Skammtímatölur um atvinnuleysishlutfall geta sýnt upplýsingar um lotubundnar breytingar í atvinnulífinu; aukning á atvinnuleysishlutfalli á sér oft stað samhliða samdrætti í efnahagi landa, eða í sumum tilvikum upphafi þensluskeiðs þar sem einstaklingar sem utan vinnumarkaðarinns hefja virka atvinnuleit.indicator_name: Atvinnuleysishlutfall eftir kyni, aldri og fötluðum einstaklingum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-5-2",
+          "href": "/8-5-2",
           "status": "complete"
         },
         {
@@ -906,7 +906,7 @@
           "title": "Hlutfall ungmenna (15-24 ára) sem stunda ekki nám, atvinnu eða eru í starfsþjálfun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-6-1",
+          "href": "/8-6-1",
           "status": "complete"
         },
         {
@@ -914,7 +914,7 @@
           "title": "Hlutfall og fjöldi barna á aldrinum 5-17 ára sem stundar barnavinnu, eftir kyni og aldri.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-7-1",
+          "href": "/8-7-1",
           "status": "complete"
         },
         {
@@ -922,7 +922,7 @@
           "title": "Tíðni banvænna og óbanvænna starfstengdra áverka, eftir kyni og farandstöðu.",
           "description": "Fjöldi banvænna og óbanvænna starfstengdra áverka, eftir kyni og þjóðerni",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-8-1",
+          "href": "/8-8-1",
           "status": "complete"
         },
         {
@@ -930,7 +930,7 @@
           "title": "Að hve miklu leyti nýtur launafólk réttinda á innlendum vettvangi (félagafrelsis og kjaraviðræðna) byggt á gögnum Alþjóðavinnumálastofnunarinnar (ILO) og innlendri löggjöf, eftir kyni og farandstöðu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-8-2",
+          "href": "/8-8-2",
           "status": "notstarted"
         },
         {
@@ -938,7 +938,7 @@
           "title": "Hlutfall ferðaþjónustu af vergri landsframleiðslu alls.",
           "description": "Hlutfall ferðaþjónustu af vergri landsframleiðslu alls.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-9-1",
+          "href": "/8-9-1",
           "status": "complete"
         },
         {
@@ -946,7 +946,7 @@
           "title": "a) Fjöldi viðskiptabankaútibúa á hverja 100.000 fullorðna einstaklinga og b) fjöldi hraðbanka á hverja 100.000 fullorðna einstaklinga.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-10-1",
+          "href": "/8-10-1",
           "status": "complete"
         },
         {
@@ -954,7 +954,7 @@
           "title": "Hlutfall fullorðinna (15 ára og eldri) með reikning hjá banka eða öðrum fjármálastofnunum eða greiðslumiðlunarþjónustu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-10-2",
+          "href": "/8-10-2",
           "status": "complete"
         },
         {
@@ -962,7 +962,7 @@
           "title": "Aðstoð vegna viðskiptaskuldbindinga- og greiðslna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-a-1",
+          "href": "/8-a-1",
           "status": "complete"
         },
         {
@@ -970,7 +970,7 @@
           "title": "Fyrirliggjandi mótuð og rekstrartæk innlend áætlun hvað varðar atvinnumál ungmenna, annað hvort sem sérstök áætlun eða sem hluti af innlendri atvinnuáætlun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/8-b-1",
+          "href": "/8-b-1",
           "status": "notstarted"
         }]
     }
@@ -986,7 +986,7 @@
           "title": "Hlutfall íbúa í dreifbýli sem býr í innan við 2 km fjarlægð frá heilsársvegi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-1-1",
+          "href": "/9-1-1",
           "status": "complete"
         },
         {
@@ -994,7 +994,7 @@
           "title": "Farþega- og vöruflutningageta, eftir flutningsmáta.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-1-2",
+          "href": "/9-1-2",
           "status": "notstarted"
         },
         {
@@ -1002,7 +1002,7 @@
           "title": "Framleiðsluvirðisauki sem hlutfall af vergri landsframleiðslu og á mann.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-2-1",
+          "href": "/9-2-1",
           "status": "complete"
         },
         {
@@ -1010,7 +1010,7 @@
           "title": "Atvinna í framleiðslugreinum sem hlutfall af heildaratvinnuþátttöku.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-2-2",
+          "href": "/9-2-2",
           "status": "complete"
         },
         {
@@ -1018,7 +1018,7 @@
           "title": "Hlutfall lítilla og meðalstórra fyrirtækja í heildarvirðisauka.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-3-1",
+          "href": "/9-3-1",
           "status": "complete"
         },
         {
@@ -1026,7 +1026,7 @@
           "title": "Hlutfall lítilla og meðalstórra fyrirtækja með lán eða lánalínu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-3-2",
+          "href": "/9-3-2",
           "status": "notstarted"
         },
         {
@@ -1034,7 +1034,7 @@
           "title": "Koltvísýringslosun á virðisaukaeiningu.",
           "description": "Koltvísýringslosun á virðisaukaeiningu er reiknuð með því að deila losun gróðuhúsalofttegunda í koltvísýringsígildum með vinnsluvirði atvinnugreina á föstu verðgildi. Vinnsluvirði er skilgreint sem munurinn á framleiðslu og aðföngum fyrir hverja atvinnugrein, eða munur á virði framleiddra vara og þjónustu og kostnað við hráefni og önnur aðföng sem notuð eru í framleiðsluna. Vinnsluvirði er leiðrétt fyrir verðbólgu og gefið í Bandaríkjadölum á verðlagi ársins 2010.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-4-1",
+          "href": "/9-4-1",
           "status": "complete"
         },
         {
@@ -1042,7 +1042,7 @@
           "title": "Útgjöld til rannsókna og þróunar sem hlutfall af vergri landsframleiðslu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-5-1",
+          "href": "/9-5-1",
           "status": "complete"
         },
         {
@@ -1050,7 +1050,7 @@
           "title": "Vísindamenn (í jafngildi fullrar stöðu) á hverja milljón íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-5-2",
+          "href": "/9-5-2",
           "status": "complete"
         },
         {
@@ -1058,7 +1058,7 @@
           "title": "Heildarfjárstuðningur opinberra aðila á alþjóðavísu (opinber þróunaraðstoð, að viðbættri annarri opinberri fjármögnun) til innviða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-a-1",
+          "href": "/9-a-1",
           "status": "complete"
         },
         {
@@ -1066,7 +1066,7 @@
           "title": "Hlutfall virðisauka meðal- og hátæknifyrirtækja af heildarvirðisauka",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-b-1",
+          "href": "/9-b-1",
           "status": "complete"
         },
         {
@@ -1074,7 +1074,7 @@
           "title": "Hlutfall íbúa með aðgang að farsímaneti, eftir tækni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/9-c-1",
+          "href": "/9-c-1",
           "status": "complete"
         }]
     }
@@ -1090,7 +1090,7 @@
           "title": "Vaxtarhraði í útgjöldum heimila eða tekjum á mann meðal lægstu 40 hundraðshluta íbúanna og hjá öllum íbúum.",
           "description": "Gögn um útgjöld eru niðurstöður úr rannsókn á útgjöldum heimila sem framkvæmd hefur verið óslitið frá árinu 2000. Niðurstöðurnar eru meðaltal þriggja ára á verðlagi síðasta ársins, fyrir utan að á tímabilinu 2011-2016 eru niðurstöðurnar byggðar á fjögurra ára meðaltali. Er það gert til að bæta niðurstöður vegna dræmrar svörunar í rannsókninni á tímabilinu 2013-2015. Gögn um tekjur eru fengnar úr lífskjararannsókn, en upplýsingar um hana má finna [hér](https://hagstofa.is/utgafur/lysigogn/lysigogn/?fileId=56788)",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-1-1",
+          "href": "/10-1-1",
           "status": "complete"
         },
         {
@@ -1098,7 +1098,7 @@
           "title": "Hlutfall fólks með undir helming af meðaltekjum, eftir kyni, aldri og fötluðum einstaklingum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-2-1",
+          "href": "/10-2-1",
           "status": "notstarted"
         },
         {
@@ -1106,7 +1106,7 @@
           "title": "Hlutfall íbúa sem tilkynnt hafa um persónulega reynslu af mismunun eða áreitni á síðastliðnum 12 mánuðum á grundvelli mismununar sem bönnuð eru samkvæmt alþjóðlegum mannréttindalögum.",
           "description": "Fjöldi hatursglæpa sem tilkynnt er um, lögsótt og sakfellt fyrir, á hverju ári.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-3-1",
+          "href": "/10-3-1",
           "status": "complete"
         },
         {
@@ -1114,7 +1114,7 @@
           "title": "Hluti vinnuafls í vergri landsframleiðslu sem samanstendur af launum og millifærslum frá félagslega kerfinu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-4-1",
+          "href": "/10-4-1",
           "status": "complete"
         },
         {
@@ -1122,7 +1122,7 @@
           "title": "Jöfnunaráhrif fjármálastefnu",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-4-2",
+          "href": "/10-4-2",
           "status": "notstarted"
         },
         {
@@ -1130,7 +1130,7 @@
           "title": "Mælikvarðar á fjárhagslegt heilbrigði.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-5-1",
+          "href": "/10-5-1",
           "status": "complete"
         },
         {
@@ -1138,7 +1138,7 @@
           "title": "Hlutfall aðildarríkja og atkvæðisréttur þróunarlanda innan alþjóðastofnana.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-6-1",
+          "href": "/10-6-1",
           "status": "complete"
         },
         {
@@ -1146,7 +1146,7 @@
           "title": "Ráðningarkostnaður sem greiddur er af launamanni sem hlutfall af árstekjum sem aflað er í viðtökulandi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-7-1",
+          "href": "/10-7-1",
           "status": "notstarted"
         },
         {
@@ -1154,7 +1154,7 @@
           "title": "Fjöldi landa sem hrundið hafa í framkvæmd vel stýrðri innflytjendastefnu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-7-2",
+          "href": "/10-7-2",
           "status": "notstarted"
         },
         {
@@ -1162,7 +1162,7 @@
           "title": "Fjöldi einstaklinga sem hefur látist eða horfið við búferlafluttninga milli landa",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-7-3",
+          "href": "/10-7-3",
           "status": "notstarted"
         },
         {
@@ -1170,7 +1170,7 @@
           "title": "Hlutfall íbúa sem eru flóttamenn, eftir upprunalandi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-7-4",
+          "href": "/10-7-4",
           "status": "notstarted"
         },
         {
@@ -1178,7 +1178,7 @@
           "title": "Hlutfall tollskrársviða sem notuð eru vegna innflutnings frá þeim löndum sem eru skemmst á veg komin í þróun og þróunarlöndum með enga tolla.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-a-1",
+          "href": "/10-a-1",
           "status": "notstarted"
         },
         {
@@ -1186,7 +1186,7 @@
           "title": "Heildarúrræði til þróunar, eftir viðtakanda og gjafalandi og tegund úrræðis (þ.e. opinber þróunaraðstoð, bein, erlend fjárfesting og önnur úrræði).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-b-1",
+          "href": "/10-b-1",
           "status": "complete"
         },
         {
@@ -1194,7 +1194,7 @@
           "title": "Kostnaður við peningasendingar sem hlutfall af þeirri upphæð sem send er.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/10-c-1",
+          "href": "/10-c-1",
           "status": "notstarted"
         }]
     }
@@ -1210,7 +1210,7 @@
           "title": "Hlutfall íbúa í þéttbýli sem búa í fátækrahverfum, óformlegu húsnæði eða óviðunandi húsnæði.",
           "description": "Gögn um einstaklinga sem búa í húsnæði í lélegu ástandi eða í þröngbýli eru fengin úr Evrópsku Lifskjararannsókninni (EU-SILC). EU-SILC rannsóknin byggir á spurningarkönnun um tekjur og lífskjör frá úrtaksþýði sem telur um 5.000 manns. Fjöldi heimilislausra var metið í manntali sem framkvæmt var árið 2011, uppfært manntal verður birt árið 201",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-1-1",
+          "href": "/11-1-1",
           "status": "complete"
         },
         {
@@ -1218,7 +1218,7 @@
           "title": "Hlutfall íbúa með auðvelt aðgengi að almenningssamgöngum, eftir kyni, aldri og fötluðum einstaklingum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-2-1",
+          "href": "/11-2-1",
           "status": "complete"
         },
         {
@@ -1226,7 +1226,7 @@
           "title": "Hlutfall milli landnýtingar og fólksfjölgunar.",
           "description": "Hlutfall milli landnýtingar og fólksfjölgunar.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-3-1",
+          "href": "/11-3-1",
           "status": "complete"
         },
         {
@@ -1234,7 +1234,7 @@
           "title": "Hlutfall borga með beinu þátttökuferli fyrir íbúa við skipulag og stjórnun þéttbýlis, með reglubundnum og lýðræðislegum hætti.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-3-2",
+          "href": "/11-3-2",
           "status": "complete"
         },
         {
@@ -1242,7 +1242,7 @@
           "title": "Heildarútgjöld (opinberra aðila og einkaaðila) á mann sem varið er til varðveislu, verndunar og friðunar allrar menningar- og náttúruarfleifðar, eftir tegund arfleifðar (menningararfleifð, náttúruarfleifð, blönduð arfleifð og arfleifð á heimsminjaskrá UNESCO), tegund stjórnvalda (landsstjórn, svæðisstjórn og sveitarstjórn), tegund fjármögnunar (rekstrarútgjöld/fjárfestingar) og tegund einkafjármögnunar (gjafir í fríðu, óhagnaðardrifinn einkageiri og kostun).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-4-1",
+          "href": "/11-4-1",
           "status": "inprogress"
         },
         {
@@ -1250,7 +1250,7 @@
           "title": "Fjöldi dauðsfalla, týndra einstaklinga og fólks sem orðið hefur fyrir beinum áhrifum af völdum hamfara á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-5-1",
+          "href": "/11-5-1",
           "status": "complete"
         },
         {
@@ -1258,7 +1258,7 @@
           "title": "Beint efnahagslegt tap af völdum hamfara í tengslum við verga landsframleiðslu á hnattræna vísu, skemmdir á þýðingamiklum innviðum og truflanir á veitingu grunnþjónustu.",
           "description": "Beint efnahagslegt tap í tengslum við hamfarir sem hundraðshluti af vergri landsframleiðslu vegna hamfara sem eru vátryggð hjá Náttúruhamfaratryggingu Íslands.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-5-2",
+          "href": "/11-5-2",
           "status": "complete"
         },
         {
@@ -1266,7 +1266,7 @@
           "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-5-3",
+          "href": "/11-5-3",
           "status": "notstarted"
         },
         {
@@ -1274,7 +1274,7 @@
           "title": "Hlutfall fasts úrgangs frá þéttbýli sem er safnað saman með reglubundnum hætti og er fargað með viðunandi hætti sem hlutfall af heildarmagni fasts úrgangs í þéttbýli, eftir borgum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-6-1",
+          "href": "/11-6-1",
           "status": "complete"
         },
         {
@@ -1282,7 +1282,7 @@
           "title": "Árlegt meðalgildi fíngerðs ryks (þ.e. PM2,5 og PM10) í borgum (vegið m.v. íbúafjölda).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-6-2",
+          "href": "/11-6-2",
           "status": "complete"
         },
         {
@@ -1290,7 +1290,7 @@
           "title": "Meðalhlutfall uppbyggðra svæða í borgum sem eru opin svæði til almennrar notkunar fyrir alla, eftir kyni, aldri og fötluðum einstaklingum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-7-1",
+          "href": "/11-7-1",
           "status": "complete"
         },
         {
@@ -1298,7 +1298,7 @@
           "title": "Hlutfall einstaklinga sem eru þolendur líkamlegrar eða kynferðislegrar áreitni, eftir kyni, aldri, fötlun og staðsetningu verknaðar, á síðastliðnum 12 mánuðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-7-2",
+          "href": "/11-7-2",
           "status": "notstarted"
         },
         {
@@ -1306,7 +1306,7 @@
           "title": "Fjöldi landa sem hafa þróunarstefnur á landsvísu eða svæðisvísu sem (a) bregðast við íbúaþróun, (b) tryggja jafnvægi byggðarþróun (c) örva staðbundið efnahagslíf",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-a-1",
+          "href": "/11-a-1",
           "status": "notstarted"
         },
         {
@@ -1314,7 +1314,7 @@
           "title": "Fjöldi landa sem hafa samþykkt og komið til framkvæmda innlendum áætlunum um að draga úr áhrifum hamfara í samræmi við Sendai-rammaáætlunina um forvarnir gegn náttúruvá 2015-2030.",
           "description": "",
           "keywords": "Lög, Reglugerðir",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-b-1",
+          "href": "/11-b-1",
           "status": "complete"
         },
         {
@@ -1322,7 +1322,7 @@
           "title": "Hlutfall sveitarstjórna sem hafa samþykkt og komið til framkvæmda staðbundnum áætlunum um að draga úr áhrifum hamfara í samræmi við innlendar áætlanir um það.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/11-b-2",
+          "href": "/11-b-2",
           "status": "notstarted"
         }]
     }
@@ -1338,7 +1338,7 @@
           "title": "Fjöldi landa sem hafa innlendar áætlanir um sjálfbæra neyslu og framleiðslu eða hafa slíkar áætlanir sem forgangsverkefni eða markmið í innlendri stefnumótun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-1-1",
+          "href": "/12-1-1",
           "status": "notstarted"
         },
         {
@@ -1346,7 +1346,7 @@
           "title": "Efnisspor, efnisspor á mann og efnisspor miðað við verga landsframleiðslu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-2-1",
+          "href": "/12-2-1",
           "status": "notstarted"
         },
         {
@@ -1354,7 +1354,7 @@
           "title": "Innlend efnisnotkun, innlend efnisnotkun á mann og innlend efnisnotkun miðað við verga landsframleiðslu.",
           "description": "Sjá aðferðarfræði í [lýsigögnum efnisflæðireikninga](http://hagstofan.s3.amazonaws.com/media/public/2020/7e196e70-d038-43f8-9d9d-18f18ede6574.pdf)",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-2-2",
+          "href": "/12-2-2",
           "status": "complete"
         },
         {
@@ -1362,7 +1362,7 @@
           "title": "Hnattrænn stuðull fyrir matvælasóun.",
           "description": "Matarsóun heimila og fyrirtækja mælt í tonnum á ári og sem kg á íbúa á ári.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-3-1",
+          "href": "/12-3-1",
           "status": "complete"
         },
         {
@@ -1370,7 +1370,7 @@
           "title": "Fjöldi aðila að alþjóðlegum marghliða umhverfissamningum um hættulegan úrgang og önnur efni sem uppfylla skuldbindingar og skyldur þeirra varðandi upplýsingagjöf sem krafa er gerð um í hverjum viðeigandi samningi.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-4-1",
+          "href": "/12-4-1",
           "status": "complete"
         },
         {
@@ -1378,7 +1378,7 @@
           "title": "Myndun hættulegs úrgangs á mann og hlutfall hættulegs úrgangs sem fær meðhöndlun, eftir tegund meðhöndlunar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-4-2",
+          "href": "/12-4-2",
           "status": "complete"
         },
         {
@@ -1386,7 +1386,7 @@
           "title": "Innlent endurvinnsluhlutfall, fjöldi tonna sem endurnýttur er.",
           "description": "Innlent endurvinnsluhlutfall",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-5-1",
+          "href": "/12-5-1",
           "status": "complete"
         },
         {
@@ -1394,7 +1394,7 @@
           "title": "Fjöldi fyrirtækja sem birta skýrslur um sjálfbærni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-6-1",
+          "href": "/12-6-1",
           "status": "notstarted"
         },
         {
@@ -1402,7 +1402,7 @@
           "title": "Fjöldi landa sem koma til framkvæmda stefnum og aðgerðaáætlunum um sjálfbær opinber innkaup.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-7-1",
+          "href": "/12-7-1",
           "status": "notstarted"
         },
         {
@@ -1410,7 +1410,7 @@
           "title": "Að hvaða marki i. menntun í heimsborgararétti og ii. menntun í sjálfbærri þróun (þ.m.t. menntun í loftslagsbreytingum),  hefur verið samþætt a) innlendum menntunaráætlunum, b) námskrám, c) kennaramenntun og d) mati á nemendum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-8-1",
+          "href": "/12-8-1",
           "status": "notstarted"
         },
         {
@@ -1418,7 +1418,7 @@
           "title": "Uppsett orkuvinnslugeta endurnýjanlegrar orku (í vöttum á íbúa)",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-a-1",
+          "href": "/12-a-1",
           "status": "complete"
         },
         {
@@ -1426,7 +1426,7 @@
           "title": "Innleiðing staðlaðra bókhaldstóla til að mæla efnahagslega og umhverfislega þætti sjálfbærni í ferðaþjónustu",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-b-1",
+          "href": "/12-b-1",
           "status": "complete"
         },
         {
@@ -1434,7 +1434,7 @@
           "title": "Fjárhæð niðurgreiðslna á jarðefnaeldsneyti á hverja einingu vergrar þjóðarframleiðslu (framleiðsla og notkun) og sem hlutfall heildarútgjalda landsins vegna jarðefnaeldsneytis.",
           "description": "Fjárhæð niðurgreiðslna á jarðefnaeldsneyti á hverja einingu vergrar þjóðarframleiðslu (framleiðsla) og sem hlutfall innflutningskostnaðar landsins vegna eldsneytis.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/12-c-1",
+          "href": "/12-c-1",
           "status": "complete"
         }]
     }
@@ -1450,7 +1450,7 @@
           "title": "Fjöldi dauðsfalla, týndra einstaklinga og fólks sem orðið hefur fyrir beinum áhrifum af völdum hamfara á hverja 100.000 íbúa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-1-1",
+          "href": "/13-1-1",
           "status": "complete"
         },
         {
@@ -1458,7 +1458,7 @@
           "title": "Fjöldi landa sem hafa samþykkt og komið til framkvæmda innlendum áætlunum um að draga úr áhrifum hamfara í samræmi við Sendai-rammaáætlunina um forvarnir gegn náttúruvá 2015-2030.",
           "description": "",
           "keywords": "lög og reglugerðir",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-1-2",
+          "href": "/13-1-2",
           "status": "complete"
         },
         {
@@ -1466,7 +1466,7 @@
           "title": "Hlutfall sveitarstjórna sem hafa samþykkt og komið til framkvæmda staðbundnum áætlunum um að draga úr áhrifum hamfara í samræmi við innlendar áætlanir um það.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-1-3",
+          "href": "/13-1-3",
           "status": "notstarted"
         },
         {
@@ -1474,7 +1474,7 @@
           "title": "Fjöldi landa með ákvörðuð og samþykkt framlög á landsvísu, langtíma áætlanir og aðlögunaráætlanir til að draga úr og aðlagast loftlagsbreytingum, sem miðlað er á landsvísu",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-2-1",
+          "href": "/13-2-1",
           "status": "notstarted"
         },
         {
@@ -1482,7 +1482,7 @@
           "title": "Heildarlosun gróðurhúsalofttegunda á ári.",
           "description": "Tvenns konar loftlagsbókhald er haldið á Íslandi. Annars vegar er bókhald um losun sem á sér stað innan landamæra Íslands og skilað er til Loftlagssamnings Sameinuðu Þjóðanna (UNFCCC) af Umhverfisstofnun og gefið út í árlegum NIR skýrslum (e. National Inventory Reports). Hins vegar er bókhald um losun sem á sér stað innan hagkerfis Íslands, það er haldið af Hagstofu Íslands og skilað til Tölfræðistofnunar Evrópu (Eurostat) sem hluti af losunarbókhaldi lofttegunda (e. Air Emissions Acounts - AEA). Loftlagsbókhald UNFCCC er er sundurliðað eftir uppsprettum gróðurhúsalofttegunda en bókahld Eurostat er sundurliðað eftir NACE atvinnugreinaflokkum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-2-2",
+          "href": "/13-2-2",
           "status": "complete"
         },
         {
@@ -1490,7 +1490,7 @@
           "title": "Að hvaða marki i. menntun í heimsborgararétti og ii. menntun í sjálfbærri þróun (þ.m.t. menntun í loftslagsbreytingum), hefur verið samþætt a) innlendum menntunaráætlunum, b) námskrám, c) kennaramenntun og d) mati á nemendum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-3-1",
+          "href": "/13-3-1",
           "status": "notstarted"
         },
         {
@@ -1498,7 +1498,7 @@
           "title": "Tiltækt fjármagn í Bandaríkjadölum á ári á tímabilinu til 2025 sem reiknast upp í 100 milljarða Bandaríkjadala skuldbindinguna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-a-1",
+          "href": "/13-a-1",
           "status": "notstarted"
         },
         {
@@ -1506,7 +1506,7 @@
           "title": "Fjöldi landa, sem eru skemmst á veg komin í þróun og lítilla eyríkja í hópi þróunarríkja, sem fá sérhæfðan stuðning, ásamt umfangi stuðnings, þ.m.t. fjármagn, tækni og getuuppbygging, til að efla getu til að útbúa skilvirkar áætlanir er varða loftslagsbreytingar, m.a. með áherslu á konur, ungmenni, staðbundin samfélög og jaðarhópa.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/13-b-1",
+          "href": "/13-b-1",
           "status": "notstarted"
         }]
     }
@@ -1522,7 +1522,7 @@
           "title": "Stuðull fyrir ofauðgun strandsvæða og þéttleika fljótandi plastúrgangs.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-1-1",
+          "href": "/14-1-1",
           "status": "notstarted"
         },
         {
@@ -1530,7 +1530,7 @@
           "title": "Hlutfall af sérefnahagslögsögum landa sem stjórnað er með vistkerfislegum nálgunum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-2-1",
+          "href": "/14-2-1",
           "status": "notstarted"
         },
         {
@@ -1538,7 +1538,7 @@
           "title": "Meðalsýrustig sjávar mælt á samþykktum fjölda dæmigerðra sýnatökustöðva.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-3-1",
+          "href": "/14-3-1",
           "status": "notstarted"
         },
         {
@@ -1546,7 +1546,7 @@
           "title": "Hlutfall fiskistofna innan líffræðilega sjálfbærra marka.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-4-1",
+          "href": "/14-4-1",
           "status": "complete"
         },
         {
@@ -1554,7 +1554,7 @@
           "title": "Umfang friðaðra svæða sem hlutfall af hafsvæðum.",
           "description": "Hlutfall verndaðra hafsvæða af fiskveiðilandhelgi.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-5-1",
+          "href": "/14-5-1",
           "status": "complete"
         },
         {
@@ -1562,7 +1562,7 @@
           "title": "Árangur landa við framkvæmd alþjóðlegra gerninga sem miða að því að berjast gegn ólöglegum, ótilkynntum og stjórnlausum fiskveiðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-6-1",
+          "href": "/14-6-1",
           "status": "complete"
         },
         {
@@ -1570,7 +1570,7 @@
           "title": "Sjálfbærar fiskveiðar sem hlutfall af vergri þjóðarframleiðslu í litlum eyríkjum í hópi þróunarríkja, löndum sem eru skemmst á veg komin í þróun og öllum löndum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-7-1",
+          "href": "/14-7-1",
           "status": "notstarted"
         },
         {
@@ -1578,7 +1578,7 @@
           "title": "Hlutfall heildarfjárveitinga til rannsókna sem ráðstafað er til rannsókna í haftækni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-a-1",
+          "href": "/14-a-1",
           "status": "notstarted"
         },
         {
@@ -1586,7 +1586,7 @@
           "title": "Árangur landa af beitingu laga-/reglu-/stefnu-/stofnanaramma þar sem aðgangsréttur lítilla útgerða er viðurkenndur og varinn.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-b-1",
+          "href": "/14-b-1",
           "status": "complete"
         },
         {
@@ -1594,7 +1594,7 @@
           "title": "Fjöldi landa sem náð hafa árangri við að fullgilda, staðfesta og koma til framkvæmda á grundvelli laga-, stefnu- og stofnanaramma gerningum er varða málefni hafsins sem eru til framkvæmdar alþjóðalögum, eins og þau birtast í Hafréttarsamningi Sameinuðu þjóðanna, vegna varðveislu og sjálfbærrar nýtingar hafsins og auðlinda þess.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/14-c-1",
+          "href": "/14-c-1",
           "status": "complete"
         }]
     }
@@ -1610,7 +1610,7 @@
           "title": "Skógi vaxin svæði sem hlutfall af heildarlandsvæði.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-1-1",
+          "href": "/15-1-1",
           "status": "complete"
         },
         {
@@ -1618,7 +1618,7 @@
           "title": "Hlutfall mikilvægra svæða í líffræðilegri fjölbreytni land- og ferskvatnssvæða sem falla undir friðunarsvæði, eftir vistkerfistegund.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-1-2",
+          "href": "/15-1-2",
           "status": "notstarted"
         },
         {
@@ -1626,7 +1626,7 @@
           "title": "Árangur í sjálfbærri skógarstjórnun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-2-1",
+          "href": "/15-2-1",
           "status": "complete"
         },
         {
@@ -1634,7 +1634,7 @@
           "title": "Hlutfall landhnignunar af heildarlandsvæði.",
           "description": "Landi er skipt upp í fimm ástandsflokka eftir ástandi gróður- og jarðvegsauðlinda. Eftir því sem flokkur fær hærri einkunn því meiri er vistfræðileg virkni á svæðinu, því betri er vatnshagurinn og því meiri er stöðuleikinn og rofið minna. Flokkur 1- Svæði með takmarkaða virkni í vistkerfinu og/eða lítinn stöðugleika auk mikils rofs (ástandseinkunn 5-12). Flokkur 2- Svæði með lítinn stöðugleika og/eða litla vistfræðilega virkni (ástandseinkunn 13-16) Flokkur 3- Svæði þar sem vistkerfi er með nokkra eða talsverða virkni og talsvert rof EÐA svæði með litla virkni og lítið rof, t.d. mosavaxin hraun EÐA svæði með nokkuð háa vistgerðaeinkunn en rof er töluvert/mikið, t.d. vel gróin svæði með virkum rofabörðum (ástandseinkunn 17-21). Flokkur 4- Svæði með meðalvirku vistkerfi og/eða stöðuleika en með lítið rof eða svæði með mikla virkni vistkerfisins og frekar stöðug en með nokkuð rof, t.d. vel gróin svæði með rofabörðum (ástandseinkunn 22-26). Flokkur 5- Svæði með miklavirkni vistkerfisins og lítið rof (ástandseinkunn 27-30).",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-3-1",
+          "href": "/15-3-1",
           "status": "complete"
         },
         {
@@ -1642,7 +1642,7 @@
           "title": "Umfang friðunarsvæða á mikilvægum stöðum fyrir líffræðilega fjölbreytni á fjallasvæðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-4-1",
+          "href": "/15-4-1",
           "status": "notstarted"
         },
         {
@@ -1650,7 +1650,7 @@
           "title": "Stuðull fyrir gróðurþekju fjalllendis (Mountain Green Cover Index).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-4-2",
+          "href": "/15-4-2",
           "status": "complete"
         },
         {
@@ -1658,7 +1658,7 @@
           "title": "Rauðlistastuðull",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-5-1",
+          "href": "/15-5-1",
           "status": "complete"
         },
         {
@@ -1666,7 +1666,7 @@
           "title": "Fjöldi landa sem hafa samþykkt laga-, stjórnsýslu- og stefnuramma í því skyni að tryggja sanngjarna og réttláta skiptingu ávinnings.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-6-1",
+          "href": "/15-6-1",
           "status": "complete"
         },
         {
@@ -1674,7 +1674,7 @@
           "title": "Hlutfall villtra lífvera sem verslað er með og veiddar hafa verið með ólögmætum hætti eða eru í ólöglegum viðskiptum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-7-1",
+          "href": "/15-7-1",
           "status": "notstarted"
         },
         {
@@ -1682,7 +1682,7 @@
           "title": "Hlutfall landa sem hafa samþykkt viðeigandi innlenda löggjöf og fjármagnað með fullnægjandi hætti forvarnir eða stjórnun á ágengum, framandi tegundum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-8-1",
+          "href": "/15-8-1",
           "status": "complete"
         },
         {
@@ -1690,7 +1690,7 @@
           "title": "Árangur af innlendum markmiðum sem sett hafa verið í samræmi við 2. markmið Aichi-markmiðanna um líffræðilega fjölbreytni í Stefnuáætlun um líffræðilega fjölbreytni 2011-2020.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-9-1",
+          "href": "/15-9-1",
           "status": "notstarted"
         },
         {
@@ -1698,7 +1698,7 @@
           "title": "(a) Opinber þróunaraðstoð til verndar og sjálfbærrar nýtingar líffjölbreytni; og (b) tekjur og fjármögunun frá efnahagslegum úrræðum tengdum líffjölbreytni",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-a-1",
+          "href": "/15-a-1",
           "status": "complete"
         },
         {
@@ -1706,7 +1706,7 @@
           "title": "(a) Opinber þróunaraðstoð til verndar og sjálfbærrar nýtingar líffjölbreytni; og (b) tekjur og fjármögunun frá efnahagslegum úrræðum tengdum líffjölbreytni",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-b-1",
+          "href": "/15-b-1",
           "status": "notstarted"
         },
         {
@@ -1714,7 +1714,7 @@
           "title": "Hlutfall villtra lífvera sem verslað er með og veiddar hafa verið með ólögmætum hætti eða eru í ólöglegum viðskiptum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/15-c-1",
+          "href": "/15-c-1",
           "status": "notstarted"
         }]
     }
@@ -1730,7 +1730,7 @@
           "title": "Fjöldi fórnarlamba ásetningsmorða á hverja 100.000 íbúa, eftir kyni og aldri.",
           "description": "Fjöldi fórnarlamba ásetningsmorða á hverja 100.000 íbúa, eftir kyni og aldri.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-1-1",
+          "href": "/16-1-1",
           "status": "complete"
         },
         {
@@ -1738,7 +1738,7 @@
           "title": "Átakatengd dauðsföll á hverja 100.000 íbúa, eftir kyni, aldri og orsök.",
           "description": "Dauðsföll á Íslandi tengd hernaði.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-1-2",
+          "href": "/16-1-2",
           "status": "complete"
         },
         {
@@ -1746,7 +1746,7 @@
           "title": "Hlutfall íbúa sem orðið hefur fyrir líkamlegu, andlegu eða kynferðislegu ofbeldi á síðastliðnum 12 mánuðum.",
           "description": "Hlutfall íbúa sem orðið hefur fyrir líkamlegu eða kynferðislegu ofbeldi á síðastliðnum 12 mánuðum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-1-3",
+          "href": "/16-1-3",
           "status": "complete"
         },
         {
@@ -1754,7 +1754,7 @@
           "title": "Hlutfall íbúa sem upplifir sig örugga á göngu einir síns liðs í nágrenni heimilis síns.",
           "description": "Nánari upplýsingar um mælikvarðan má finna í [Þolendakönnun Ríkislögreglustjóra](https://www.logreglan.is/utgafa/fraedilegar-rannsoknir/reynsla-almennings-af-afbrotum-og-vidhorf-til-logreglu/)",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-1-4",
+          "href": "/16-1-4",
           "status": "complete"
         },
         {
@@ -1762,7 +1762,7 @@
           "title": "Hlutfall barna á aldrinum 1-17 ára sem orðið hafa fyrir einhvers konar líkamlegum refsingum og/eða andlegu ofbeldi af hálfu umönnunaraðila síðastliðinn mánuð.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-2-1",
+          "href": "/16-2-1",
           "status": "complete"
         },
         {
@@ -1770,7 +1770,7 @@
           "title": "Fjöldi mansalsfórnarlamba á hverja 100.000 íbúa, eftir kyni, aldri og tegund misbeitingar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-2-2",
+          "href": "/16-2-2",
           "status": "notstarted"
         },
         {
@@ -1778,7 +1778,7 @@
           "title": "Hlutfall ungra kvenna og karla á aldrinum 18-29 ára sem orðið hafa fyrir kynferðislegu ofbeldi fyrir 18 ára aldur.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-2-3",
+          "href": "/16-2-3",
           "status": "complete"
         },
         {
@@ -1786,7 +1786,7 @@
           "title": "Hlutfall fórnarlamba ofbeldis á síðastliðnum 12 mánuðum sem tilkynnt hafa um brot gegn sér til lögbærra yfirvalda eða annarra opinberlega viðurkenndra sáttaumleitunaraðila.",
           "description": "Hlutfall fórnarlamba ofbeldis á síðastliðnum 12 mánuðum sem tilkynnt hafa um brot gegn sér til lögreglu",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-3-1",
+          "href": "/16-3-1",
           "status": "complete"
         },
         {
@@ -1794,7 +1794,7 @@
           "title": "Hlutfall ósakfelldra gæslufanga af heildarfjölda í fangelsum.",
           "description": "Hlutfall ósakfelldra gæslufanga af heildarfjölda í fangelsum.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-3-2",
+          "href": "/16-3-2",
           "status": "complete"
         },
         {
@@ -1802,7 +1802,7 @@
           "title": "Hlutfall íbúa sem hafa upplifað ágreining á síðustu tveimur árum og hafa nýtt sér formleg eða óformleg úrlausnarferli, eftir tegund úrlausnarferlis",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-3-3",
+          "href": "/16-3-3",
           "status": "notstarted"
         },
         {
@@ -1810,7 +1810,7 @@
           "title": "Heildarvirði ólögmæts inn- og útflæðis fjármagns (í gildandi Bandaríkjadölum)",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-4-1",
+          "href": "/16-4-1",
           "status": "notstarted"
         },
         {
@@ -1818,7 +1818,7 @@
           "title": "Hlutfall haldlagðra, fundinna eða afhentra vopna þar sem lögbært stjórnvald hefur rakið eða sýnt fram á ólögmætan uppruna eða aðstæður í samræmi við alþjóðlega gerninga.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-4-2",
+          "href": "/16-4-2",
           "status": "notstarted"
         },
         {
@@ -1826,7 +1826,7 @@
           "title": "Hlutfall einstaklinga sem hafa átt samskipti við opinberan embættismann í a.m.k. eitt skipti og greitt mútur til opinbers embættismanns eða fengið beiðni um það frá þessum opinberu embættismönnum á síðastliðnum 12 mánuðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-5-1",
+          "href": "/16-5-1",
           "status": "notstarted"
         },
         {
@@ -1834,7 +1834,7 @@
           "title": "Hlutfall rekstraraðila sem hafa átt samskipti við opinberan embættismann í a.m.k. eitt skipti og greitt mútur til opinbers embættismanns eða fengið beiðni um það frá þessum opinberu embættismönnum á síðastliðnum 12 mánuðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-5-2",
+          "href": "/16-5-2",
           "status": "notstarted"
         },
         {
@@ -1842,7 +1842,7 @@
           "title": "Frumgjöld ríkissjóðs sem hlutfall af upprunalegum, samþykktum fjárlögum, eftir geira (eða fjárlagalínum eða þess háttar).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-6-1",
+          "href": "/16-6-1",
           "status": "notstarted"
         },
         {
@@ -1850,7 +1850,7 @@
           "title": "Hlutfall íbúa sem eru ánægðir með síðustu upplifun sína af opinberri þjónustu. services",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-6-2",
+          "href": "/16-6-2",
           "status": "notstarted"
         },
         {
@@ -1858,7 +1858,7 @@
           "title": "Hlutfall stöðugilda (eftir kyni, aldri, fötluðum einstaklingum og þjóðfélagshópum) hjá opinberum stofnunum (innlendir og staðbundnir löggjafar, opinber þjónusta og dómskerfi) borið saman við skiptingu í samfélaginu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-7-1",
+          "href": "/16-7-1",
           "status": "notstarted"
         },
         {
@@ -1866,7 +1866,7 @@
           "title": "Hlutfall íbúa sem telja ákvarðanatöku vera fyrir alla og að brugðist sé við slíku, eftir kyni, aldri, fötlun og þjóðfélagshóp.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-7-2",
+          "href": "/16-7-2",
           "status": "notstarted"
         },
         {
@@ -1874,7 +1874,7 @@
           "title": "Hlutfall aðildarríkja og atkvæðisréttur þróunarlanda innan alþjóðastofnana.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-8-1",
+          "href": "/16-8-1",
           "status": "complete"
         },
         {
@@ -1882,7 +1882,7 @@
           "title": "Hlutfall barna undir 5 ára aldri á fæðingarskrá hjá borgaralegu yfirvaldi, eftir aldri.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-9-1",
+          "href": "/16-9-1",
           "status": "complete"
         },
         {
@@ -1890,7 +1890,7 @@
           "title": "Fjöldi sannprófaðra tilvika þar sem blaðamenn, tengdir starfsmenn fjölmiðla, félagar í stéttarfélögum og baráttumenn fyrir mannréttindum hafa verið myrtir, rænt, horfið af mannavöldum, fangelsaðir með tilviljanakenndum hætti eða pyntaðir á síðastliðnum 12 mánuðum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-10-1",
+          "href": "/16-10-1",
           "status": "complete"
         },
         {
@@ -1898,7 +1898,7 @@
           "title": "Fjöldi landa sem hafa samþykkt og komið til framkvæmda aðgengi almennings að upplýsingum sem er tryggt samkvæmt stjórnarskrá, lögum og/eða stefnum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-10-2",
+          "href": "/16-10-2",
           "status": "complete"
         },
         {
@@ -1906,7 +1906,7 @@
           "title": "Fyrir liggja sjálfstæðar mannréttindastofnanir í samræmi við Parísar-reglur Sameinuðu þjóðanna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-a-1",
+          "href": "/16-a-1",
           "status": "complete"
         },
         {
@@ -1914,7 +1914,7 @@
           "title": "Hlutfall íbúa sem tilkynnt hafa um persónulega reynslu af mismunun eða áreitni á síðastliðnum 12 mánuðum á grundvelli mismununar sem bönnuð er samkvæmt alþjóðlegum mannréttindalögum.",
           "description": "Fjöldi hatursglæpa sem tilkynnt er um, lögsótt og sakfellt fyrir, á hverju ári.",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/16-b-1",
+          "href": "/16-b-1",
           "status": "complete"
         }]
     }
@@ -1930,7 +1930,7 @@
           "title": "Heildartekjur hins opinbera sem hlutfall af vergri landsframleiðslu, eftir uppruna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-1-1",
+          "href": "/17-1-1",
           "status": "complete"
         },
         {
@@ -1938,7 +1938,7 @@
           "title": "Hlutfall innlendra fjárveitinga sem fjármagnaðar eru með innlendum sköttum",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-1-2",
+          "href": "/17-1-2",
           "status": "complete"
         },
         {
@@ -1946,7 +1946,7 @@
           "title": "Nettóþróunaraðstoð opinberra aðila, í heild og til þeirra landa sem eru skemmst á veg komin í þróun, sem hlutfall af vergum þjóðartekjum gjafaríkja í þróunaraðstoðarnefnd Efnahags- og framfarastofnunarinnar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-2-1",
+          "href": "/17-2-1",
           "status": "complete"
         },
         {
@@ -1954,7 +1954,7 @@
           "title": "Bein, erlend fjárfesting, opinber þróunaraðstoð og samstarf innan suðursvæða sem hlutfall af þjóðartekjum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-3-1",
+          "href": "/17-3-1",
           "status": "notstarted"
         },
         {
@@ -1962,7 +1962,7 @@
           "title": "Umfang peningasendinga (í Bandaríkjadölum) sem hlutfall af vergri heildarlandsframleiðslu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-3-2",
+          "href": "/17-3-2",
           "status": "complete"
         },
         {
@@ -1970,7 +1970,7 @@
           "title": "Greiðslubyrði sem hlutfall af útflutningi vöru og þjónustu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-4-1",
+          "href": "/17-4-1",
           "status": "notstarted"
         },
         {
@@ -1978,7 +1978,7 @@
           "title": "Fjöldi landa sem samþykkt hafa og komið til framkvæmda aðgerðaáætlunum til að efla fjárfestingar fyrir þróunarlönd, þar á meðal þau lönd sem eru skemmst á veg komin í þróun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-5-1",
+          "href": "/17-5-1",
           "status": "complete"
         },
         {
@@ -1986,7 +1986,7 @@
           "title": "Fastar breiðbandsáskriftir á hverja 100 íbúa, eftir hraða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-6-1",
+          "href": "/17-6-1",
           "status": "complete"
         },
         {
@@ -1994,7 +1994,7 @@
           "title": "Heildarfjárhæð samþykktra fjárveitinga til þróunarríkja sem ætlað er að styðja við þróun, yfirfærslu, dreifingu og útbreiðslu umhverfisvænnar tækni.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-7-1",
+          "href": "/17-7-1",
           "status": "notstarted"
         },
         {
@@ -2002,7 +2002,7 @@
           "title": "Hlutfall einstaklinga sem nota Netið.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-8-1",
+          "href": "/17-8-1",
           "status": "complete"
         },
         {
@@ -2010,7 +2010,7 @@
           "title": "Fjárhæð í Bandaríkjadölum sem veitt er til fjárhagslegs og tæknilegs stuðnings við þróunarlönd (m.a. með samstarfi milli svæða í norðri og suðri, innan suðursvæða og með þríhliða samstarfi).",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-9-1",
+          "href": "/17-9-1",
           "status": "complete"
         },
         {
@@ -2018,7 +2018,7 @@
           "title": "Vegið meðaltal tolla á heimsvísu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-10-1",
+          "href": "/17-10-1",
           "status": "complete"
         },
         {
@@ -2026,7 +2026,7 @@
           "title": "Hluti þróunarlanda og þeirra landa sem eru skemmst á veg komin í þróun af heildarútflutningi á heimsvísu.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-11-1",
+          "href": "/17-11-1",
           "status": "complete"
         },
         {
@@ -2034,7 +2034,7 @@
           "title": "Meðaltollar á þróunarlönd, þau lönd sem eru skemmst á veg komin í þróun og lítil eyríki í hópi þróunarríkja.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-12-1",
+          "href": "/17-12-1",
           "status": "notstarted"
         },
         {
@@ -2042,7 +2042,7 @@
           "title": "Þjóðhagslegt mælaborð.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-13-1",
+          "href": "/17-13-1",
           "status": "notstarted"
         },
         {
@@ -2050,7 +2050,7 @@
           "title": "Fjöldi landa þar sem fyrir hendi er fyrirkomulag til að stuðla að samfellu í stefnum um sjálfbæra þróun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-14-1",
+          "href": "/17-14-1",
           "status": "notstarted"
         },
         {
@@ -2058,7 +2058,7 @@
           "title": "Að hvaða marki veitendur þróunarsamvinnu nota árangursramma og skipulagningarúrræði í eigu landanna.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-15-1",
+          "href": "/17-15-1",
           "status": "complete"
         },
         {
@@ -2066,7 +2066,7 @@
           "title": "Fjöldi landa sem tilkynna um árangur af ramma fjölhagsmunaaðila um eftirlit með skilvirkni þróunaraðstoðar sem styður við markmið um að ná tilteknum markmiðum um sjálfbæra þróun.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-16-1",
+          "href": "/17-16-1",
           "status": "complete"
         },
         {
@@ -2074,7 +2074,7 @@
           "title": "Fjárhæð í Bandaríkjadölum sem veitt er til samstarfsverkefna einkaaðila og opinberra aðila vegna innviða.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-17-1",
+          "href": "/17-17-1",
           "status": "notstarted"
         },
         {
@@ -2082,7 +2082,7 @@
           "title": "Mælikvarði á tölfræðilega getu til að mæla árangur í innleiðingu heimsmarkmiðanna",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-18-1",
+          "href": "/17-18-1",
           "status": "notstarted"
         },
         {
@@ -2090,7 +2090,7 @@
           "title": "Fjöldi landa sem hafa innlenda hagskýrslulöggjöf sem er í samræmi við grundvallarreglur um opinbera hagskýrslugerð.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-18-2",
+          "href": "/17-18-2",
           "status": "complete"
         },
         {
@@ -2098,7 +2098,7 @@
           "title": "Fjöldi landa sem hafa áætlun um landshagskýrslur sem er að fullu fjármögnuð og komin til framkvæmda, eftir tegund fjármögnunar.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-18-3",
+          "href": "/17-18-3",
           "status": "complete"
         },
         {
@@ -2106,7 +2106,7 @@
           "title": "Andvirði allra úrræða í Bandaríkjadölum sem tiltæk eru til að efla tölfræðilega getu í þróunarlöndum.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-19-1",
+          "href": "/17-19-1",
           "status": "complete"
         },
         {
@@ -2114,7 +2114,7 @@
           "title": "Hlutfall landa sem a) hafa framkvæmt a.m.k. eitt manntal og húsnæðistal á síðustu 10 árum og b) hafa náð 100% skráningu fæðinga og 80% skráningu dauðsfalla.",
           "description": "",
           "keywords": "",
-          "href": "/https://hagstofan.github.io/heimsmarkmid-prod/17-19-2",
+          "href": "/17-19-2",
           "status": "complete"
         }]
     }
