@@ -875,7 +875,7 @@
           "description": "",
           "keywords": "",
           "href": "/en/8-4-1",
-          "status": "inprogress"
+          "status": "notstarted"
         },
         {
           "id": "8-4-2",
@@ -1099,7 +1099,7 @@
           "description": "",
           "keywords": "",
           "href": "/en/10-2-1",
-          "status": "inprogress"
+          "status": "notstarted"
         },
         {
           "id": "10-3-1",
@@ -1707,7 +1707,7 @@
           "description": "",
           "keywords": "",
           "href": "/en/15-b-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-c-1",
