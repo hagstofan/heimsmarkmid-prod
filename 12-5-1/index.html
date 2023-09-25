@@ -132,7 +132,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20230911105022">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20230925115049">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -3596,7 +3596,7 @@ layout-indicator
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Ár&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Gildi&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Ár&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Gildi&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="[]"
 >
@@ -3653,35 +3653,11 @@ layout-indicator
         <tr>
           
           
-          <td>2008</td>
-          
-          
-          
-          <td class="table-value">19</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2009</td>
-          
-          
-          
-          <td class="table-value">20</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
           <td>2010</td>
           
           
           
-          <td class="table-value">21</td>
+          <td class="table-value">33.87</td>
           
           
         </tr>
@@ -3693,7 +3669,7 @@ layout-indicator
           
           
           
-          <td class="table-value">25</td>
+          <td class="table-value">44.05</td>
           
           
         </tr>
@@ -3705,7 +3681,7 @@ layout-indicator
           
           
           
-          <td class="table-value">28</td>
+          <td class="table-value">40.7</td>
           
           
         </tr>
@@ -3717,7 +3693,7 @@ layout-indicator
           
           
           
-          <td class="table-value">30</td>
+          <td class="table-value">42.9</td>
           
           
         </tr>
@@ -3729,7 +3705,7 @@ layout-indicator
           
           
           
-          <td class="table-value">30</td>
+          <td class="table-value">42.84</td>
           
           
         </tr>
@@ -3741,7 +3717,7 @@ layout-indicator
           
           
           
-          <td class="table-value">28</td>
+          <td class="table-value">47.39</td>
           
           
         </tr>
@@ -3753,7 +3729,7 @@ layout-indicator
           
           
           
-          <td class="table-value">33</td>
+          <td class="table-value">47.29</td>
           
           
         </tr>
@@ -3765,7 +3741,7 @@ layout-indicator
           
           
           
-          <td class="table-value">26</td>
+          <td class="table-value">44.4</td>
           
           
         </tr>
@@ -3777,7 +3753,7 @@ layout-indicator
           
           
           
-          <td class="table-value">28</td>
+          <td class="table-value">51.19</td>
           
           
         </tr>
@@ -3789,7 +3765,7 @@ layout-indicator
           
           
           
-          <td class="table-value">27</td>
+          <td class="table-value">46.27</td>
           
           
         </tr>
@@ -3801,7 +3777,7 @@ layout-indicator
           
           
           
-          <td class="table-value">26</td>
+          <td class="table-value">57.02</td>
           
           
         </tr>
@@ -3814,7 +3790,7 @@ layout-indicator
   
   <div id="datatableFooter">
     
-    <p>Heimild: Umhverfisstofnun</p>
+    <p>Heimild: Hagstofa Íslands</p>
     
     
     <p>Svæði: Ísland</p>
@@ -3928,7 +3904,7 @@ data-event-label="Change to Table tab"
     <dl>
         
         <dt>Heimild:</dt>
-        <dd>Umhverfisstofnun</dd>
+        <dd>Hagstofa Íslands</dd>
         
 
         
@@ -4003,7 +3979,7 @@ data-event-label="Change to Table tab"
     <dl>
         
         <dt>Heimild:</dt>
-        <dd>Umhverfisstofnun</dd>
+        <dd>Hagstofa Íslands</dd>
         
 
         
@@ -4236,7 +4212,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Útreikningar </th>
         <td>
           
-            <p>Endurvinnsluhlutfall = Endurvinnsla sorps / heildarmagn sorps.</p>
+            <p>Endurvinnsluhlutfall = Endurvinnsla og endurnýting umbúðaúrgangs innanlands og innan ESB / heildarmagn umbúðarúrgangs sem fellur til.</p>
 
           
         </td>
@@ -4660,7 +4636,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Stofnun </th>
         <td>
           
-            <p>Umhverfisstofnun</p>
+            <p>Hagstofa Íslands</p>
 
           
         </td>
@@ -4692,7 +4668,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Fyrstu gögn </th>
         <td>
           
-            <p>2008</p>
+            <p>2010</p>
 
           
         </td>
@@ -4729,8 +4705,8 @@ data-event-label="Change to indicator.sources tab"
             
             
             
-              <a href="https://ust.is/hringrasarhagkerfi/urgangsmal/umhverfisvisar-og-tolfraedi/tolfraedi/" target="_blank">
-                Tölfræði yfir úrgang á Íslandi <span class="visuallyhidden">opnast í nýjum glugga</span>
+              <a href="https://px.hagstofa.is/pxis/pxweb/is/Umhverfi/Umhverfi__3_efnisflaedi__2_urgangur/UMH04111.px" target="_blank">
+                Úrvinnsla umbúðarúrgangs á Íslandi <span class="visuallyhidden">opnast í nýjum glugga</span>
               </a>
             
 
@@ -4780,7 +4756,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Hafa samband </th>
         <td>
           
-            <p>ust@ust.is</p>
+            <p>heimsmarkmidin@hagstofa.is</p>
 
           
         </td>
@@ -4982,12 +4958,12 @@ data-event-label="Change to indicator.sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Leit';</script>
 
-<script src='/assets/js/sdg.js?v=20230911105022'></script>
+<script src='/assets/js/sdg.js?v=20230925115049'></script>
 
 
     
     
-    <script src="/assets/js/custom.js?v=20230911105022"></script><script>
+    <script src="/assets/js/custom.js?v=20230925115049"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
