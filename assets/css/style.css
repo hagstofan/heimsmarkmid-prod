@@ -2671,7 +2671,7 @@ header.hagstofa {
     height: 59px;
     padding-top: 17px;
     padding-left: 2px; }
-  header.hagstofa .header-text {
+  header.hagstofa .header-text, header.hagstofa .header-text a {
     font-family: adelle-sans, sans-serif;
     font-weight: 600;
     font-size: 24px;
@@ -2680,6 +2680,8 @@ header.hagstofa {
     letter-spacing: 0.12em;
     color: #0B404E;
     padding-top: 21px; }
+  header.hagstofa .header-text a:hover {
+    text-decoration: none; }
   header.hagstofa .upper-desktop-navbar {
     float: right; }
     header.hagstofa .upper-desktop-navbar a {
