@@ -2846,6 +2846,12 @@ footer.hagstofa {
 @media (min-width: 1500px) {
   footer.hagstofa .container {
     width: auto !important; } }
+#main-text-content-en {
+  display: none; }
+
+@media (min-width: 1200px) {
+  #main-text-content-en {
+    display: inline; } }
 @media (min-width: 992px) {
   #main-text {
     display: block; }
