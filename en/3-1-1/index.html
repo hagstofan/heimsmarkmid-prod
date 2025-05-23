@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20250521150158">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20250523151402">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -392,9 +392,9 @@ layout-indicator
   data-indicatorid='indicator_3-1-1'
   data-id="3-1-1"
   data-country="Iceland"
-  data-charttitle="Maternal mortality ratio. The indicator does not imply there were 23 maternal deaths in a population of 100.000 people. Instead the y-axis represents live births, not population. In Iceland, the number of live births is usually fewer than 5000 per year. For global comparison purposes, maternal mortality ratio is standardized to represent deaths per 100,000 live births. While the internationally reported number is around 23 deaths per 100,000 live births, in Iceland’s context, this translates to approximately 0.2 deaths per 1,000 live births — just one death in a year with 4,800 births."
+  data-charttitle="Maternal mortality ratio."
   data-charttitles="[]"
-  data-measurementunit="Rate per 100,000 live births during the same time period"
+  data-measurementunit="Number of deaths per 100,000 inhabitants, by year."
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="line"
@@ -408,7 +408,7 @@ layout-indicator
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="[]"
 >
@@ -448,7 +448,7 @@ layout-indicator
     
     <h3>Headline data</h3>
     <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Maternal mortality ratio. The indicator does not imply there were 23 maternal deaths in a population of 100.000 people. Instead the y-axis represents live births, not population. In Iceland, the number of live births is usually fewer than 5000 per year. For global comparison purposes, maternal mortality ratio is standardized to represent deaths per 100,000 live births. While the internationally reported number is around 23 deaths per 100,000 live births, in Iceland’s context, this translates to approximately 0.2 deaths per 1,000 live births — just one death in a year with 4,800 births.</caption>
+      <caption>Maternal mortality ratio.</caption>
       <thead>
         
         
@@ -469,7 +469,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -481,7 +481,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -493,7 +493,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -505,7 +505,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -517,7 +517,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -529,7 +529,7 @@ layout-indicator
           
           
           
-          <td class="table-value">24</td>
+          <td class="table-value">0.41</td>
           
           
         </tr>
@@ -541,7 +541,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -553,7 +553,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -565,7 +565,7 @@ layout-indicator
           
           
           
-          <td class="table-value">21</td>
+          <td class="table-value">0.39</td>
           
           
         </tr>
@@ -577,7 +577,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -589,7 +589,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -601,7 +601,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -613,7 +613,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -625,7 +625,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -637,7 +637,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -649,7 +649,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -661,7 +661,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -673,7 +673,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -685,7 +685,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -697,7 +697,7 @@ layout-indicator
           
           
           
-          <td class="table-value">24</td>
+          <td class="table-value">0.35</td>
           
           
         </tr>
@@ -709,7 +709,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -721,7 +721,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -733,7 +733,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -745,7 +745,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -757,7 +757,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -769,7 +769,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -781,7 +781,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -793,7 +793,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -805,7 +805,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -817,7 +817,7 @@ layout-indicator
           
           
           
-          <td class="table-value">22</td>
+          <td class="table-value">0.32</td>
           
           
         </tr>
@@ -829,7 +829,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -841,7 +841,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -853,7 +853,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -865,7 +865,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -877,7 +877,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -889,7 +889,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -901,7 +901,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -913,7 +913,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -925,7 +925,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -937,7 +937,7 @@ layout-indicator
           
           
           
-          <td class="table-value">0</td>
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -949,7 +949,19 @@ layout-indicator
           
           
           
-          <td class="table-value">23</td>
+          <td class="table-value">0.27</td>
+          
+          
+        </tr>
+        
+        <tr>
+          
+          
+          <td>2023</td>
+          
+          
+          
+          <td class="table-value">0.0</td>
           
           
         </tr>
@@ -968,7 +980,7 @@ layout-indicator
     <p>Geographical Area: Iceland</p>
     
     
-    <p>Unit of Measurement: Rate per 100,000 live births during the same time period</p>
+    <p>Unit of Measurement: Number of deaths per 100,000 inhabitants, by year.</p>
     
     
     <p>Footnote: </p>
@@ -1056,7 +1068,7 @@ data-event-label="Change to Table tab"
     <div id="selectionsChart">
       <figure role="group">
         <div id="chart-canvas">
-          <h4 id="chart-heading" class="chart-title">Maternal mortality ratio. The indicator does not imply there were 23 maternal deaths in a population of 100.000 people. Instead the y-axis represents live births, not population. In Iceland, the number of live births is usually fewer than 5000 per year. For global comparison purposes, maternal mortality ratio is standardized to represent deaths per 100,000 live births. While the internationally reported number is around 23 deaths per 100,000 live births, in Iceland’s context, this translates to approximately 0.2 deaths per 1,000 live births — just one death in a year with 4,800 births.</h4>
+          <h4 id="chart-heading" class="chart-title">Maternal mortality ratio.</h4>
           <div id="chart" class="plot-container">
             <canvas
     role="img"
@@ -1352,7 +1364,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Unit of measurement </th>
         <td>
           
-            <p>Rate per 100,000 live births during the same time period</p>
+            <p>Number of deaths per 100,000 inhabitants, by year.</p>
 
           
         </td>
@@ -1368,7 +1380,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Definitions </th>
         <td>
           
-            <p>‘A maternal death is the death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and the site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management, but not from accidental or incidental causes.’</p>
+            <p>A maternal death is the death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and the site of the pregnancy, from any cause related to or aggravated by the pregnancy or its management, but not from accidental or incidental causes. computation_calculations: &gt;- Number of deaths of women (due to complications of pregnancy, childbirth, and the postpartum period) / Population in the same year) * 100.000</p>
 
           
         </td>
@@ -1384,7 +1396,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Calculations </th>
         <td>
           
-            <p>(Fjöldi látinna kvenna (vegna fylgikvilla þungunar, barnsburðar og sængurlegu) / Fjöldi lifandi fædda) * 100.000</p>
+            <p>(Fjöldi látinna kvenna (vegna fylgikvilla þungunar, barnsburðar og sængurlegu) / Mannfjöldi sama ár) * 100.000</p>
 
           
         </td>
@@ -1400,7 +1412,7 @@ data-event-label="Change to indicator.sources tab"
         <th scope="row">Comments and limitations </th>
         <td>
           
-            <p>‘This indicator is being used as an approximation of the UN SDG Indicator. Where possible, we will work to identify or develop UK data to meet the global indicator specification. This indicator has been identified in collaboration with topic experts.’</p>
+            <p>‘This indicator is being used as an approximation of the UN SDG Indicator.’</p>
 
           
         </td>
@@ -1880,7 +1892,7 @@ data-event-label="Change to indicator.sources tab"
             
             
               <a href="https://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__Faeddirdanir__danir__danarmein/MAN05301.px" target="_blank">
-                Deaths by sex, age and main causes of death 1981- <span class="visuallyhidden">opens in a new window</span>
+                Deaths by sex, age and main causes of death <span class="visuallyhidden">opens in a new window</span>
               </a>
             
 
@@ -2141,7 +2153,7 @@ data-event-label="Change to indicator.sources tab"
             
             
               <a href="https://px.hagstofa.is/pxen/pxweb/en/Ibuar/Ibuar__Faeddirdanir__Faeddir__faedingar/MAN05100.px" target="_blank">
-                Live births and late fetal deaths by sex 1951- <span class="visuallyhidden">opens in a new window</span>
+                Live births and late fetal deaths by sex <span class="visuallyhidden">opens in a new window</span>
               </a>
             
 
@@ -2402,7 +2414,7 @@ data-event-label="Change to indicator.sources tab"
             
             
               <a href="https://island.is/en/danarorsakir-tolur" target="_blank">
-                Number of deaths by causes of death (European Shortlist) and sex, 2000- <span class="visuallyhidden">opens in a new window</span>
+                Number of deaths by causes of death (European Shortlist) and sex <span class="visuallyhidden">opens in a new window</span>
               </a>
             
 
@@ -2477,6 +2489,255 @@ data-event-label="Change to indicator.sources tab"
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+    </div>
+    
+    
+    
+    <div class="col-md-6">
+      
+        <h4>Source 4</h4>
+      
+      <table class="table metadata-content">
+  <tbody>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Organisation </th>
+        <td>
+          
+            <p>Directorate of Health</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Periodicity </th>
+        <td>
+          
+            <p>Annual</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Earliest available data </th>
+        <td>
+          
+            <p>1980</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Geographical coverage </th>
+        <td>
+          
+            <p>Iceland</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Link to data source </th>
+        <td>
+          
+            
+            
+            
+            
+            
+              <a href="https://app.powerbi.com/view?r=eyJrIjoiMjdkYTI0ZWUtZGU5OS00Y2IxLThkYzctZTE4MTYyYTFjNjA1IiwidCI6Ijc2NGEzMDZkLTBhNjgtNDVhZC05ZjA3LTZmMTgwNDQ0N2NkNCIsImMiOjh9" target="_blank">
+                Dashboard - Cause of death <span class="visuallyhidden">opens in a new window</span>
+              </a>
+            
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      
+  
+      
+      
+      
+        
+          
+      
+      
+      
+        
+          
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Statistical classification </th>
+        <td>
+          
+            <p>Official Statistics</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Contact details </th>
+        <td>
+          
+            <p>mottaka@landlaeknir.is</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      
+        
+          
   
   
   
@@ -2625,12 +2886,12 @@ data-event-label="Change to indicator.sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/assets/js/sdg.js?v=20250521150158'></script>
+<script src='/assets/js/sdg.js?v=20250523151402'></script>
 
 
     
     
-    <script src="/assets/js/custom.js?v=20250521150158"></script><script>
+    <script src="/assets/js/custom.js?v=20250523151402"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
